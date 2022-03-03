@@ -7,8 +7,8 @@ const Header = () => {
         </div>
         <div>
           <button>Novo Post</button>
-          <span>Img1</span>
-          <span>Img2</span>
+          <span>Img 1</span>
+          <span>Img 2</span>
         </div>
       </div>
     </header>
